@@ -1,0 +1,7 @@
+el sistema ya está configurado completamente y Para subirlo a la nube solo se necesita 2 pasos:
+
+1) Subir TODOS los archivos directo de la raíz.
+
+2) Entrar en base_de_datos y copiar el fichero database.
+
+3) pegar el fichero en application\config y reemplazar el archivo que acabas de copiar.
